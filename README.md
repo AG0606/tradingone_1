@@ -1,31 +1,24 @@
-# tradingone
+# tradingonegu
+
+Components: Search button, Markets, Crypto, News, Explore features to redirecting components.
+
+Login/signup button : Redirecting to login/signup. 
+
+Market: Company name, value, change and cap
+
+Crypto square: Name, val, change, cap, vol and supply corp. 
+
+News: Range - topic, source and date.
 
 
-components: 
-search button 
-markets 
-crypto 
-news 
-explore features to redirecting components. 
+Hover: Change button colors over hovering.maybe take underlining.
 
-login/signup 
-button redirecting to login/signup. 
+End of landing: Need credits, links and trademark. 
 
-market: company name, value, change and cap
-crypto square: name, val, change, cap, vol and supply corp. 
-news: range - topic, source and date.
+Real time data: Through the API link for stock moderation. 
 
 
-
- hover: 
- change button colors over hovering.maybe take underlining.
- redirecting on certain components: 
-
-
- end of landing: 
- need credits, links and trademark. 
-
- real time data: 
- link api for stock moderation. 
-
-
+Contributors :-
+1. Priyank Garg (24BCT0142)
+2. Anish Agarwal (24BCT0234)
+3. Ashutosh Gupta (24BCE2983)
