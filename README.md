@@ -19,6 +19,6 @@ Real time data: Through the API link for stock moderation.
 
 
 Contributors :-
-1. Priyank Garg (24BCT0142)
-2. Anish Agarwal (24BCT0234)
-3. Ashutosh Gupta (24BCE2983)
+1. Ashutosh Gupta (24BCE2983)
+2. Priyank Garg (24BCT0142)
+3. Anish Agarwal (24BCT0234)
